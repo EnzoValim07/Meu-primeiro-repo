@@ -16,3 +16,5 @@ Adicione os estilos abaixo no código-fonte e veja o que acontece com os element
 Desafio: como será que eu faço para deixar os elementos da maneira abaixo?
 
 ![atividade-desafio](https://github.com/user-attachments/assets/15721745-1954-493b-8b34-894ab6e9764c)
+
+Ultilizando o repositorio https://github.com/SPTech-Atividades-de-PI/flex-box-atividade-01 como apoio e fazendo mudanças autorais.
